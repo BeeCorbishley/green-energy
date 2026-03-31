@@ -1,9 +1,9 @@
 // PRELOAD IMAGES
 function preloader() {
     const imagesList = [
-        "./img/img-1.jpg",
-        "./img/img-2.jpg",
-        "./img/img-3.jpg"
+        "/green-energy/img/img-1.png",
+        "/green-energy/img/img-2.png",
+        "/green-energy/img/img-3.png"
     ];
 
     const images = [];
@@ -29,21 +29,21 @@ const contentData = {
     lighting: {
         headingContent: "Switch to LED Lighting",
         bodyText: "Replacing traditional bulbs with LED lights is one of the cheapest ways to lower electricity costs.",
-        imgUrl: "./img/img-1.jpg",
+        imgUrl: "/green-energy/img/img-1.png",
         imgAlt: "LED light bulbs"
     },
 
     thermostat: {
         headingContent: "Smart Temperature Control",
         bodyText: "Smart thermostats help reduce heating and cooling costs.",
-        imgUrl: "./img/img-2.jpg",
+        imgUrl: "/green-energy/img/img-2.png",
         imgAlt: "Smart thermostat"
     },
 
     insulation: {
         headingContent: "Seal and Insulate Your Home",
         bodyText: "Low-cost insulation upgrades help save money.",
-        imgUrl: "./img/img-3.jpg",
+        imgUrl: "/green-energy/img/img-3.png",
         imgAlt: "Home insulation"
     }
 };
