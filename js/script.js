@@ -28,23 +28,23 @@ const buttons = document.querySelectorAll(".button-group button");
 const contentData = {
     lighting: {
         headingContent: "Switch to LED Lighting",
-        bodyText: "Replacing traditional bulbs with LED lights is one of the cheapest ways to lower electricity costs. LEDs use significantly less power, last much longer, and help households save money immediately without large upfront expenses.",
-        imgUrl: "./img/img-1.png",
-        imgAlt: "LED light bulbs in a modern home"
+        bodyText: "Replacing traditional bulbs with LED lights is one of the cheapest ways to lower electricity costs.",
+        imgUrl: "./img/img-1.jpg",
+        imgAlt: "LED light bulbs"
     },
 
     thermostat: {
         headingContent: "Smart Temperature Control",
-        bodyText: "Programmable and smart thermostats help families reduce heating and cooling costs by automatically adjusting temperatures throughout the day. This affordable upgrade lowers monthly bills while reducing unnecessary energy use.",
-        imgUrl: "./img/img-2.png",
-        imgAlt: "Smart thermostat on a wall"
+        bodyText: "Smart thermostats help reduce heating and cooling costs.",
+        imgUrl: "./img/img-2.jpg",
+        imgAlt: "Smart thermostat"
     },
 
     insulation: {
         headingContent: "Seal and Insulate Your Home",
-        bodyText: "Weather stripping, window sealing, and improved insulation are low-cost upgrades that keep heat inside during winter and cool air inside during summer. These simple changes help average households save money every month.",
-        imgUrl: "./img/img-3.png",
-        imgAlt: "Home insulation and window sealing"
+        bodyText: "Low-cost insulation upgrades help save money.",
+        imgUrl: "./img/img-3.jpg",
+        imgAlt: "Home insulation"
     }
 };
 
